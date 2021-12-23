@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Martin, a software engineer for uMed.
+
+- I'm currently developing some awesome applications but I'm afraid details are
+   under NDA...
+
 <!--
 **martin-umed/martin-umed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
